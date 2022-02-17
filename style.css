@@ -108,15 +108,15 @@ body {
 }
 
 .skill-html {
-  background-image: url("img/icon-html.svg");
+  background-image: url("icon-html.svg");
 }
 
 .skill-css {
-  background-image: url("img/icon-css.svg");
+  background-image: url("icon-css.svg");
 }
 
 .skill-art {
-  background-image: url("img/user.svg");}
+  background-image: url("user.jpg");}
 
 .level {
   margin: 4px 0 16px;
